@@ -33,11 +33,3 @@ OR using npm
 npm install
 npm start
 ```
-
-## Author
-
-- [**Truly Mittal**](https://trulymittal.com)
-
-## Contribute
-
-You can fork this repo and send me a PR.
